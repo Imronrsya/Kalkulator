@@ -2,6 +2,10 @@
 
 Aplikasi kalkulator web yang modern dan responsif dengan tiga mode perhitungan yang berbeda.
 
+## 🌐 Live Demo
+
+**[🔗 Lihat Demo Langsung](https://imronrsya.github.io/Kalkulator/)**
+
 ## Fitur
 
 ### 🧮 Mode Standard
